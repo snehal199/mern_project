@@ -1,3 +1,3 @@
 {
-    "mongoURI":" "
+    "mongoURI": "mongodb+srv://thelavenderhue:mongo_Ps42@cluster0.t5qmq.mongodb.net/MERN?retryWrites=true&w=majority"
 }
